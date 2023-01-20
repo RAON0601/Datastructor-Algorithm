@@ -76,4 +76,4 @@ class HashTable<K, T> {
   }
 }
 
-export {};
+export { HashTable };

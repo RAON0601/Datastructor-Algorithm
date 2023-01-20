@@ -142,4 +142,4 @@ class DoublyLinkedList<T> {
   }
 }
 
-export {};
+export { DoublyLinkedList, Node };
